@@ -15,7 +15,7 @@ Su propósito es solventar un problema actual o facilitar un servicio respecto a
 
 ## Descargar
 
-Através de [Descargar](https://github.com/guidogonzalez/ProyectoFinal/tree/main/descarga) para descargar la APK.
+Através de [Descarga](https://github.com/guidogonzalez/ConectaFutbol/tree/main/descarga) para descargar la APK.
 
 <img src="/imagenes/mopi_conectafutbol.jpg" align="right" width="27%"/>
 
