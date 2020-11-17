@@ -10,14 +10,14 @@ Su propósito es solventar un problema actual o facilitar un servicio respecto a
 </br>
 
 <p align="center">
-<img src="/imagenes/web_conectafutbol.png" width="27%"/>
+<img src="/imagenes/web_conectafutbol.png" width="47%"/>
 </p>
 
 ## Descargar
 
 Através de [Descarga](https://github.com/guidogonzalez/ConectaFutbol/tree/main/descarga) para descargar la APK.
 
-<img src="/imagenes/mopi_conectafutbol.jpg" align="right" width="27%"/>
+<img src="/imagenes/mopi_conectafutbol.jpg" align="right" width="47%"/>
 
 ## Tecnologías & librerías
 
